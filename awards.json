@@ -1,442 +1,533 @@
 {
     "awards": {
-        "delhi": [{
-                "type": "Vir's Choice Awards",
-                "cat": "Best Casual Indian Dining",
-                "name": "Farzi Cafe, CP"
-            },
-            {
-                "type": "Vir's Choice Awards",
-                "cat": "Best Traditional Indian",
-                "name": "Dum Pukht"
-            },
-            {
-                "type": "Vir's Choice Awards",
-                "cat": "Best Modern Indian Standalone",
-                "name": "Indian Accent"
-            },
-            {
-                "type": "Vir's Choice Awards",
-                "cat": "Best Modern Indian in a Hotel",
-                "name": "Amaranta"
-            },
-            {
-                "type": "Vir's Choice Awards",
-                "cat": "Best European Standalone",
-                "name": "Diva"
-            },
-            {
-                "type": "Vir's Choice Awards",
-                "cat": "Best European in a Hotel",
-                "name": "Le Cirque"
-            },
-            {
-                "type": "Vir's Choice Awards",
-                "cat": "Best Chinese",
-                "name": "China Kitchen"
-            },
-            {
-                "type": "Vir's Choice Awards",
-                "cat": "Best Oriental Standalone",
-                "name": "Town Hall"
-            },
-            {
-                "type": "Vir's Choice Awards",
-                "cat": "General Manager of the Year",
-                "name": "Satyajeet Krishnan"
-            },
-            {
-                "type": "Vir's Choice Awards",
-                "cat": "Best Oriental in a Hotel",
-                "name": "Tian"
-            },
-            {
-                "type": "Vir's Choice Awards",
-                "cat": "Best All Day Dining",
-                "name": "Delhi Pavilion"
-            },
-            {
-                "type": "Vir's Choice Awards",
-                "cat": "Best Regional Indian",
-                "name": "SodaBottleOpenerWala"
-            },
-            {
-                "type": "Vir's Choice Awards",
-                "cat": "Best Food Chain",
-                "name": "Mamagoto"
-            },
-            {
-                "type": "Vir's Choice Awards",
-                "cat": "Opening of the Year",
-                "name": "Delhi Club House"
-            },
-            {
-                "type": "Vir's Choice Awards",
-                "cat": "F&B Professional of the Year",
-                "name": "Suveer Sodhi"
-            },
-            {
-                "type": "Vir's Choice Awards",
-                "cat": "PR Person of the Year",
-                "name": "Mallika Dasgupta"
-            },
-            {
-                "type": "Vir's Choice Awards",
-                "cat": "Chef of the Year",
-                "name": "Ramon Salto"
-            },
-            {
-                "type": "Vir's Choice Awards",
-                "cat": "Most Innovative General Manager",
-                "name": "Nitesh Gandhi"
-            },
-            {
-                "type": "Vir's Choice Awards",
-                "cat": "Hotel of the Year",
-                "name": "The Leela Ambience"
-            },
-            {
-                "type": "Vir's Choice Awards",
-                "cat": "Lifetime Achievement Award",
-                "name": "Jayaram Banan"
-            },
-            {
-                "type": "People's Choice Awards",
-                "cat": "Best Modern Indian Restaurant",
-                "name": "Farzi Cafe, CP"
-            },
-            {
-                "type": "People's Choice Awards",
-                "cat": "Best Standalone European Restaurant",
-                "name": "Smoke House Deli, HKV"
-            },
-            {
-                "type": "People's Choice Awards",
-                "cat": "Best Oriental Restaurant in a Hotel",
-                "name": "Blue Ginger, Taj Palace"
-            },
-            {
-                "type": "People's Choice Awards",
-                "cat": "Best European Restaurant in a Hotel",
-                "name": "Sorrento, Shangri la's Eros Hotel"
-            },
-            {
-                "type": "People's Choice Awards",
-                "cat": "Best Regional Cuisine in a Hotel",
-                "name": "Dakshin, Sheraton New Delhi"
-            },
-            {
-                "type": "People's Choice Awards",
-                "cat": "Best Indian Restaurant in a Hotel",
-                "name": "Diya, The Leela Ambience Gurgaon"
-            },
-            {
-                "type": "People's Choice Awards",
-                "cat": "Most Romantic Restaurant",
-                "name": "Olive Bar & Kitchen"
-            },
-            {
-                "type": "People's Choice Awards",
-                "cat": "Best Brewed Tea",
-                "name": "The Lobby Lounge, The Leela Palace"
-            },
-            {
-                "type": "People's Choice Awards",
-                "cat": "Best Burgers",
-                "name": "Cafe Delhi Heights, Cross Point Mall"
-            },
-            {
-                "type": "People's Choice Awards",
-                "cat": "Best Pizza",
-                "name": "Italiano, Cyber Hub"
-            },
-            {
-                "type": "People's Choice Awards",
-                "cat": "Best Sushi",
-                "name": "Threesixtyone Degrees, The Oberoi Gurgaon"
-            },
-            {
-                "type": "People's Choice Awards",
-                "cat": "Best Nightlife",
-                "name": "Imperfecto, Cyber Hub"
-            },
-            {
-                "type": "People's Choice Awards",
-                "cat": "Best Cocktail Bar in a Hotel",
-                "name": "The Bar, Trident Gurgaon"
-            },
-            {
-                "type": "People's Choice Awards",
-                "cat": "Best Patisserie",
-                "name": "The Artful Baker, Khan Market"
-            },
-            {
-                "type": "People's Choice Awards",
-                "cat": "Best Coffee",
-                "name": "Emperor's Lounge, Taj Mahal Hotel"
-            },
-            {
-                "type": "People's Choice Awards",
-                "cat": "Best Cafe in a Hotel",
-                "name": "Seasonal Tastes, The Westin, Gurgaon"
-            },
-            {
-                "type": "People's Choice Awards",
-                "cat": "Best Standalone Indian Restaurant",
-                "name": "Veda, CP"
-            },
-            {
-                "type": "People's Choice Awards",
-                "cat": "Best Standalone Cafe",
-                "name": "Cafe Dive, GK-1"
-            },
-            {
-                "type": "People's Choice Awards",
-                "cat": "Best Standalone Oriental Restaurant",
-                "name": "Mamagoto, Khan Market"
-            },
-            {
-                "type": "People's Choice Awards",
-                "cat": "Best Standalone Cocktail Bar",
-                "name": "SETZ Bar, Vasant Kunj"
-            },
-            {
-                "type": "People's Choice Awards",
-                "cat": "Best F&B Destination",
-                "name": "DLF Cyber Hub, Gurgaon"
-            }
-        ],
-        "mumbai": [{
-                "type": "Vir's Choice Awards",
-                "cat": "Best North Indian Restaurant in a Hotel",
-                "name": "Dum Pukht"
-            },
-            {
-                "type": "Vir's Choice Awards",
-                "cat": "Best Traditional Indian Restaurant",
-                "name": "Jamavar"
-            },
-            {
-                "type": "Vir's Choice Awards",
-                "cat": "Best North Indian Restaurant as a Standalone",
-                "name": "Tote on the Turf"
-            },
-            {
-                "type": "Vir's Choice Awards",
-                "cat": "Best European Restaurant in a Hotel",
-                "name": "Vetro"
-            },
-            {
-                "type": "Vir's Choice Awards",
-                "cat": "Best European Restaurant as a Standalone",
-                "name": "The Table"
-            },
-            {
-                "type": "Vir's Choice Awards",
-                "cat": "F&B Person of the Year",
-                "name": "Udiksha Mehta, Executive Assistant Manager, The Oberoi, Mumbai"
-            },
-            {
-                "type": "Vir's Choice Awards",
-                "cat": "Executive Chef of the Year",
-                "name": "Himanshu Taneja, Executive Chef, JW Marriott, Juhu, Mumbai"
-            },
-            {
-                "type": "Vir's Choice Awards",
-                "cat": "Chef of the Year in a Standalone",
-                "name": "Gresham Fernandes, Culinary Director- Impresario"
-            },
-            {
-                "type": "Vir's Choice Awards",
-                "cat": "Restaurateur of the Year",
-                "name": "Zorawar Kalra, Founder & Managing Director, Massive Restaurants"
-            },
-            {
-                "type": "Vir's Choice Awards",
-                "cat": "Hotelier of the Year",
-                "name": "Parveen Chander Kumar, General Manager, The Taj Lands End Mumbai"
-            },
-            {
-                "type": "Vir's Choice Awards",
-                "cat": "Best Oriental Restaurant in a Hotel",
-                "name": "Thai Pavilion"
-            },
-            {
-                "type": "Vir's Choice Awards",
-                "cat": "Best Oriental Restaurant as a Standalone",
-                "name": "Pa Pa Ya"
-            },
-            {
-                "type": "Vir's Choice Awards",
-                "cat": "Best Chinese Restaurant as a Standalone",
-                "name": "Yauatcha"
-            },
-            {
-                "type": "Vir's Choice Awards",
-                "cat": "Best Chinese Restaurant in a Hotel",
-                "name": "China House"
-            },
-            {
-                "type": "Vir's Choice Awards",
-                "cat": "Best Casual Dining",
-                "name": "Farzi Cafe"
-            },
-            {
-                "type": "Vir's Choice Awards",
-                "cat": "Revamp of the Year",
-                "name": "Masala Bay"
-            },
-            {
-                "type": "Vir's Choice Awards",
-                "cat": "Opening of the Year",
-                "name": "SodaBottleOpenerWala"
-            },
-            {
-                "type": "Vir's Choice Awards",
-                "cat": "Best Modern Indian Restaurant",
-                "name": "The Bombay Canteen"
-            },
-            {
-                "type": "Vir's Choice Awards",
-                "cat": "Hotel of the Year",
-                "name": "The Oberoi, Mumbai"
-            },
-            {
-                "type": "Vir's Choice Awards",
-                "cat": "Best Regional Indian Restaurant as a Standalone",
-                "name": "Gajalee"
-            },
-            {
-                "type": "Vir's Choice Awards",
-                "cat": "Best Regional Indian Restaurant in a Hotel",
-                "name": "Konkan Cafe"
-            },
-            {
-                "type": "Vir's Choice Awards",
-                "cat": "Best Vegetarian Restaurant",
-                "name": "Soam"
-            },
-            {
-                "type": "Vir's Choice Awards",
-                "cat": "Most Innovative General Manager",
-                "name": "Visheshwar Raj Singh"
-            },
-            {
-                "type": "Vir's Choice Awards",
-                "cat": "Most Disruptive Concept of the Year",
-                "name": "Colaba Social"
-            },
-            {
-                "type": "People's Choice Awards",
-                "cat": "Best Indian Restaurant in a Hotel",
-                "name": "The Sahib Room & Kipling Bar"
-            },
-            {
-                "type": "People's Choice Awards",
-                "cat": "Best Indian Restaurant as a Standalone",
-                "name": "Mirchi and Mime"
-            },
-            {
-                "type": "People's Choice Awards",
-                "cat": "Best European Restaurant in a Hotel",
-                "name": "Le Cirque Signature"
-            },
-            {
-                "type": "People's Choice Awards",
-                "cat": "Best European Restaurant as a Standalone",
-                "name": "Indigo"
-            },
-            {
-                "type": "People's Choice Awards",
-                "cat": "Best Cocktail Bar in a Hotel",
-                "name": "Opium Den"
-            },
-            {
-                "type": "People's Choice Awards",
-                "cat": "Best Cocktail Bar as a Standalone",
-                "name": "Hoppipola"
-            },
-            {
-                "type": "People's Choice Awards",
-                "cat": "Best Oriental Restaurant in a Hotel",
-                "name": "Dashanzi"
-            },
-            {
-                "type": "People's Choice Awards",
-                "cat": "Best Oriental Restaurant as a Standalone",
-                "name": "Mamagoto"
-            },
-            {
-                "type": "People's Choice Awards",
-                "cat": "Best Nightlife in a Hotel",
-                "name": "Aer"
-            },
-            {
-                "type": "People's Choice Awards",
-                "cat": "Best Nightlife in a Standalone",
-                "name": "Hard Rock Cafe"
-            },
-            {
-                "type": "People's Choice Awards",
-                "cat": "Best Cafe in a Hotel",
-                "name": "O22"
-            },
-            {
-                "type": "People's Choice Awards",
-                "cat": "Best Modern Indian Restaurant",
-                "name": "Masala Library"
-            },
-            {
-                "type": "People's Choice Awards",
-                "cat": "Best Sushi in Town",
-                "name": "Wasabi By Morimoto"
-            },
-            {
-                "type": "People's Choice Awards",
-                "cat": "Best Cafe as a Standalone",
-                "name": "The Bombay Canteen"
-            },
-            {
-                "type": "People's Choice Awards",
-                "cat": "Best Regional Cuisine Standalone",
-                "name": "SodaBottleOpenerWala"
-            },
-            {
-                "type": "People's Choice Awards",
-                "cat": "Best Microbrewery in Town",
-                "name": "The White Owl - Brewery & Bistro"
-            },
-            {
-                "type": "People's Choice Awards",
-                "cat": "Best Vegetarian Restaurant",
-                "name": "Vedge"
-            },
-            {
-                "type": "People's Choice Awards",
-                "cat": "Best Mediterranean Restaurant",
-                "name": "Aqaba"
-            },
-            {
-                "type": "People's Choice Awards",
-                "cat": "Best Sunday Brunch",
-                "name": "San-Qi"
-            },
-            {
-                "type": "People's Choice Awards",
-                "cat": "Best Coastal Cuisine Restaurant",
-                "name": "Mahesh Lunch Home"
-            },
-            {
-                "type": "People's Choice Awards",
-                "cat": "Best Buffet in Town",
-                "name": "Sigree Global Grill"
-            },
-            {
-                "type": "People's Choice Awards",
-                "cat": "Best Pizzas in Town",
-                "name": "PizzaExpress"
-            }
-        ],
-        "bengaluru": []
+        "delhi": {
+            "2016": [{
+                    "type": "Vir's Choice Awards",
+                    "cat": "Best Casual Indian Dining",
+                    "name": "Farzi Cafe, CP",
+                    "img": "fiftypercent.jpg",
+                    "link": "https://www.eazydiner.com/delhi-ncr/farzi-cafe-connaught-place-cp-central-delhi-600070"
+                },
+                {
+                    "type": "Vir's Choice Awards",
+                    "cat": "Best Traditional Indian",
+                    "name": "Dum Pukht",
+                    "img": "fiftypercent.jpg",
+                    "link": "https://www.eazydiner.com/delhi-ncr/dum-pukht-itc-maurya-chanakyapuri-delhi-110238"
+                },
+                {
+                    "type": "Vir's Choice Awards",
+                    "cat": "Best Modern Indian Standalone",
+                    "name": "Indian Accent",
+                    "img": "fiftypercent.jpg",
+                    "link": "https://www.eazydiner.com/delhi-ncr/indian-accent-the-manor-friends-colony-delhi-110043"
+                },
+                {
+                    "type": "Vir's Choice Awards",
+                    "cat": "Best Modern Indian in a Hotel",
+                    "name": "Amaranta",
+                    "img": "fiftypercent.jpg",
+                    "link": "https://www.eazydiner.com/delhi-ncr/amaranta-the-oberoi-udyog-vihar-gurgaon-111736"
+                },
+                {
+                    "type": "Vir's Choice Awards",
+                    "cat": "Best European Standalone",
+                    "name": "Diva",
+                    "img": "fiftypercent.jpg",
+                    "link": "https://www.eazydiner.com/delhi-ncr/diva-italian-greater-kailash-gk-2-110554"
+                },
+                {
+                    "type": "Vir's Choice Awards",
+                    "cat": "Best European in a Hotel",
+                    "name": "Le Cirque",
+                    "img": "fiftypercent.jpg",
+                    "link": "https://www.eazydiner.com/delhi-ncr/le-cirque-the-leela-palace-chanakyapuri-delhi-110568"
+                },
+                {
+                    "type": "Vir's Choice Awards",
+                    "cat": "Best Chinese",
+                    "name": "China Kitchen",
+                    "img": "fiftypercent.jpg",
+                    "link": "https://www.eazydiner.com/delhi-ncr/china-kitchen-bhikaji-cama-place-110651"
+                },
+                {
+                    "type": "Vir's Choice Awards",
+                    "cat": "Best Oriental Standalone",
+                    "name": "Town Hall",
+                    "img": "fiftypercent.jpg",
+                    "link": "https://www.eazydiner.com/delhi-ncr/town-hall-khan-market-110108"
+                },
+                {
+                    "type": "Vir's Choice Awards",
+                    "cat": "General Manager of the Year",
+                    "name": "Satyajeet Krishnan",
+                    "img": "fiftypercent.jpg",
+                    "link": "#"
+                },
+                {
+                    "type": "Vir's Choice Awards",
+                    "cat": "Best Oriental in a Hotel",
+                    "name": "Tian",
+                    "img": "fiftypercent.jpg",
+                    "link": "https://www.eazydiner.com/delhi-ncr/tian-itc-maurya-sardar-patel-marg-new-delhi-121001"
+                },
+                {
+                    "type": "Vir's Choice Awards",
+                    "cat": "Best All Day Dining",
+                    "name": "Delhi Pavilion",
+                    "img": "fiftypercent.jpg",
+                    "link": "https://www.eazydiner.com/delhi-ncr/delhi-pavilion-sheraton-saket-delhi-110859"
+                },
+                {
+                    "type": "Vir's Choice Awards",
+                    "cat": "Best Regional Indian",
+                    "name": "SodaBottleOpenerWala",
+                    "img": "fiftypercent.jpg",
+                    "link": "https://www.eazydiner.com/delhi-ncr/sodabottleopenerwala-dlf-cyber-city-110028"
+                },
+                {
+                    "type": "Vir's Choice Awards",
+                    "cat": "Best Food Chain",
+                    "name": "Mamagoto",
+                    "img": "fiftypercent.jpg",
+                    "link": "https://www.eazydiner.com/delhi-ncr/restaurants/mamagoto"
+                },
+                {
+                    "type": "Vir's Choice Awards",
+                    "cat": "Opening of the Year",
+                    "name": "Delhi Club House",
+                    "img": "fiftypercent.jpg",
+                    "link": "https://www.eazydiner.com/delhi-ncr/delhi-club-house-r-k-puram-121462"
+                },
+                {
+                    "type": "Vir's Choice Awards",
+                    "cat": "F&B Professional of the Year",
+                    "name": "Suveer Sodhi",
+                    "img": "fiftypercent.jpg",
+                    "link": "#"
+                },
+                {
+                    "type": "Vir's Choice Awards",
+                    "cat": "PR Person of the Year",
+                    "name": "Mallika Dasgupta",
+                    "img": "fiftypercent.jpg",
+                    "link": "#"
+                },
+                {
+                    "type": "Vir's Choice Awards",
+                    "cat": "Chef of the Year",
+                    "name": "Ramon Salto",
+                    "img": "fiftypercent.jpg",
+                    "link": "#"
+                },
+                {
+                    "type": "Vir's Choice Awards",
+                    "cat": "Most Innovative General Manager",
+                    "name": "Nitesh Gandhi",
+                    "img": "fiftypercent.jpg",
+                    "link": "#"
+                },
+                {
+                    "type": "Vir's Choice Awards",
+                    "cat": "Hotel of the Year",
+                    "name": "The Leela Ambience",
+                    "img": "fiftypercent.jpg",
+                    "link": "https://www.eazydiner.com/delhi-ncr/restaurants/the-leela-ambience-convention-hotel-new-delhi"
+                },
+                {
+                    "type": "Vir's Choice Awards",
+                    "cat": "Lifetime Achievement Award",
+                    "name": "Jayaram Banan",
+                    "img": "fiftypercent.jpg",
+                    "link": "#"
+                },
+                {
+                    "type": "People's Choice Awards",
+                    "cat": "Best Modern Indian Restaurant",
+                    "name": "Farzi Cafe, CP",
+                    "img": "fiftypercent.jpg",
+                    "link": "https://www.eazydiner.com/delhi-ncr/farzi-cafe-connaught-place-cp-central-delhi-600070"
+                },
+                {
+                    "type": "People's Choice Awards",
+                    "cat": "Best Standalone European Restaurant",
+                    "name": "Smoke House Deli, HKV",
+                    "img": "fiftypercent.jpg",
+                    "link": "https://www.eazydiner.com/delhi-ncr/smoke-house-deli-hauz-khas-village-110058"
+                },
+                {
+                    "type": "People's Choice Awards",
+                    "cat": "Best Oriental Restaurant in a Hotel",
+                    "name": "Blue Ginger, Taj Palace",
+                    "img": "fiftypercent.jpg",
+                    "link": "https://www.eazydiner.com/delhi-ncr/blue-ginger-taj-palace-hotel-chanakyapuri-delhi-110691"
+                },
+                {
+                    "type": "People's Choice Awards",
+                    "cat": "Best European Restaurant in a Hotel",
+                    "name": "Sorrento, Shangri la's Eros Hotel",
+                    "img": "fiftypercent.jpg",
+                    "link": "https://www.eazydiner.com/delhi-ncr/sorrento-connaught-place-cp-central-delhi-612514"
+                },
+                {
+                    "type": "People's Choice Awards",
+                    "cat": "Best Regional Cuisine in a Hotel",
+                    "name": "Dakshin, Sheraton New Delhi",
+                    "img": "fiftypercent.jpg",
+                    "link": "https://www.eazydiner.com/delhi-ncr/dakshin-sheraton-saket-delhi-110508"
+                },
+                {
+                    "type": "People's Choice Awards",
+                    "cat": "Best Indian Restaurant in a Hotel",
+                    "name": "Diya, The Leela Ambience Gurgaon",
+                    "img": "fiftypercent.jpg",
+                    "link": "https://www.eazydiner.com/delhi-ncr/diya-the-leela-ambience-ambience-mall-gurgaon-111154"
+                },
+                {
+                    "type": "People's Choice Awards",
+                    "cat": "Most Romantic Restaurant",
+                    "name": "Olive Bar & Kitchen",
+                    "img": "fiftypercent.jpg",
+                    "link": "https://www.eazydiner.com/delhi-ncr/olive-bar-kitchen-mehrauli-110055"
+                },
+                {
+                    "type": "People's Choice Awards",
+                    "cat": "Best Brewed Tea",
+                    "name": "The Lobby Lounge, The Leela Palace",
+                    "img": "fiftypercent.jpg",
+                    "link": "https://www.eazydiner.com/delhi-ncr/the-lobby-lounge-chanakyapuri-112420"
+                },
+                {
+                    "type": "People's Choice Awards",
+                    "cat": "Best Burgers",
+                    "name": "Cafe Delhi Heights, Cross Point Mall",
+                    "img": "fiftypercent.jpg",
+                    "link": "https://www.eazydiner.com/delhi-ncr/cafe-delhi-heights-dlf-phase-4-110136"
+                },
+                {
+                    "type": "People's Choice Awards",
+                    "cat": "Best Pizza",
+                    "name": "Italiano, Cyber Hub",
+                    "img": "fiftypercent.jpg",
+                    "link": "https://www.eazydiner.com/delhi-ncr/italiano-dlf-cyber-city-110925"
+                },
+                {
+                    "type": "People's Choice Awards",
+                    "cat": "Best Sushi",
+                    "name": "Threesixtyone Degrees, The Oberoi Gurgaon",
+                    "img": "fiftypercent.jpg",
+                    "link": "https://www.eazydiner.com/delhi-ncr/threesixtyone-degrees-the-oberoi-udyog-vihar-gurgaon-110329"
+                },
+                {
+                    "type": "People's Choice Awards",
+                    "cat": "Best Nightlife",
+                    "name": "Imperfecto, Cyber Hub",
+                    "img": "fiftypercent.jpg",
+                    "link": "https://www.eazydiner.com/delhi-ncr/imperfecto-dlf-cyber-city-110125"
+                },
+                {
+                    "type": "People's Choice Awards",
+                    "cat": "Best Cocktail Bar in a Hotel",
+                    "name": "The Bar, Trident Gurgaon",
+                    "img": "fiftypercent.jpg",
+                    "link": "https://www.eazydiner.com/delhi-ncr/the-bar-trident-gurgaon-udyog-vihar-gurgaon-113207"
+                },
+                {
+                    "type": "People's Choice Awards",
+                    "cat": "Best Patisserie",
+                    "name": "The Artful Baker, Khan Market",
+                    "img": "fiftypercent.jpg",
+                    "link": "https://www.eazydiner.com/delhi-ncr/the-artful-baker-khan-market-121435"
+                },
+                {
+                    "type": "People's Choice Awards",
+                    "cat": "Best Coffee",
+                    "name": "Emperor's Lounge, Taj Mahal Hotel",
+                    "img": "fiftypercent.jpg",
+                    "link": "https://www.eazydiner.com/delhi-ncr/emperors-lounge-mansingh-road-111621"
+                },
+                {
+                    "type": "People's Choice Awards",
+                    "cat": "Best Cafe in a Hotel",
+                    "name": "Seasonal Tastes, The Westin, Gurgaon",
+                    "img": "fiftypercent.jpg",
+                    "link": "https://www.eazydiner.com/delhi-ncr/seasonal-tastes-the-westin-gurgaon-sector-29-gurgaon-110544"
+                },
+                {
+                    "type": "People's Choice Awards",
+                    "cat": "Best Standalone Indian Restaurant",
+                    "name": "Veda, CP",
+                    "img": "fiftypercent.jpg",
+                    "link": "https://www.eazydiner.com/delhi-ncr/veda-connaught-place-110064"
+                },
+                {
+                    "type": "People's Choice Awards",
+                    "cat": "Best Standalone Cafe",
+                    "name": "Cafe Dive, GK-1",
+                    "img": "fiftypercent.jpg",
+                    "link": "https://www.eazydiner.com/delhi-ncr/cafe-diva-greater-kailash-gk-1-delhi-110587"
+                },
+                {
+                    "type": "People's Choice Awards",
+                    "cat": "Best Standalone Oriental Restaurant",
+                    "name": "Mamagoto, Khan Market",
+                    "img": "fiftypercent.jpg",
+                    "link": "https://www.eazydiner.com/delhi-ncr/mamagoto-khan-market-110146"
+                },
+                {
+                    "type": "People's Choice Awards",
+                    "cat": "Best Standalone Cocktail Bar",
+                    "name": "SETZ Bar, Vasant Kunj",
+                    "img": "fiftypercent.jpg",
+                    "link": "https://www.eazydiner.com/delhi-ncr/setz-bar-vasant-kunj-south-delhi-121333"
+                },
+                {
+                    "type": "People's Choice Awards",
+                    "cat": "Best F&B Destination",
+                    "name": "DLF Cyber Hub, Gurgaon",
+                    "img": "fiftypercent.jpg",
+                    "link": "https://www.eazydiner.com/delhi-ncr/restaurants/dlf-cyber-city-gurgaon"
+                }
+            ]
+        },
+        "mumbai": {
+            "2016": [{
+                    "type": "Vir's Choice Awards",
+                    "cat": "Best North Indian Restaurant in a Hotel",
+                    "name": "Dum Pukht",
+                    "img": "dum-pukht.jpg",
+                    "link": "https://www.eazydiner.com/mumbai/dum-pukht-andheri-east-223116"
+                },
+                {
+                    "type": "Vir's Choice Awards",
+                    "cat": "Best Traditional Indian Restaurant",
+                    "name": "Jamavar",
+                    "img": ""
+                },
+                {
+                    "type": "Vir's Choice Awards",
+                    "cat": "Best North Indian Restaurant as a Standalone",
+                    "name": "Tote on the Turf"
+                },
+                {
+                    "type": "Vir's Choice Awards",
+                    "cat": "Best European Restaurant in a Hotel",
+                    "name": "Vetro"
+                },
+                {
+                    "type": "Vir's Choice Awards",
+                    "cat": "Best European Restaurant as a Standalone",
+                    "name": "The Table"
+                },
+                {
+                    "type": "Vir's Choice Awards",
+                    "cat": "F&B Person of the Year",
+                    "name": "Udiksha Mehta, Executive Assistant Manager, The Oberoi, Mumbai"
+                },
+                {
+                    "type": "Vir's Choice Awards",
+                    "cat": "Executive Chef of the Year",
+                    "name": "Himanshu Taneja, Executive Chef, JW Marriott, Juhu, Mumbai"
+                },
+                {
+                    "type": "Vir's Choice Awards",
+                    "cat": "Chef of the Year in a Standalone",
+                    "name": "Gresham Fernandes, Culinary Director- Impresario"
+                },
+                {
+                    "type": "Vir's Choice Awards",
+                    "cat": "Restaurateur of the Year",
+                    "name": "Zorawar Kalra, Founder & Managing Director, Massive Restaurants"
+                },
+                {
+                    "type": "Vir's Choice Awards",
+                    "cat": "Hotelier of the Year",
+                    "name": "Parveen Chander Kumar, General Manager, The Taj Lands End Mumbai"
+                },
+                {
+                    "type": "Vir's Choice Awards",
+                    "cat": "Best Oriental Restaurant in a Hotel",
+                    "name": "Thai Pavilion"
+                },
+                {
+                    "type": "Vir's Choice Awards",
+                    "cat": "Best Oriental Restaurant as a Standalone",
+                    "name": "Pa Pa Ya"
+                },
+                {
+                    "type": "Vir's Choice Awards",
+                    "cat": "Best Chinese Restaurant as a Standalone",
+                    "name": "Yauatcha"
+                },
+                {
+                    "type": "Vir's Choice Awards",
+                    "cat": "Best Chinese Restaurant in a Hotel",
+                    "name": "China House"
+                },
+                {
+                    "type": "Vir's Choice Awards",
+                    "cat": "Best Casual Dining",
+                    "name": "Farzi Cafe"
+                },
+                {
+                    "type": "Vir's Choice Awards",
+                    "cat": "Revamp of the Year",
+                    "name": "Masala Bay"
+                },
+                {
+                    "type": "Vir's Choice Awards",
+                    "cat": "Opening of the Year",
+                    "name": "SodaBottleOpenerWala"
+                },
+                {
+                    "type": "Vir's Choice Awards",
+                    "cat": "Best Modern Indian Restaurant",
+                    "name": "The Bombay Canteen"
+                },
+                {
+                    "type": "Vir's Choice Awards",
+                    "cat": "Hotel of the Year",
+                    "name": "The Oberoi, Mumbai"
+                },
+                {
+                    "type": "Vir's Choice Awards",
+                    "cat": "Best Regional Indian Restaurant as a Standalone",
+                    "name": "Gajalee"
+                },
+                {
+                    "type": "Vir's Choice Awards",
+                    "cat": "Best Regional Indian Restaurant in a Hotel",
+                    "name": "Konkan Cafe"
+                },
+                {
+                    "type": "Vir's Choice Awards",
+                    "cat": "Best Vegetarian Restaurant",
+                    "name": "Soam"
+                },
+                {
+                    "type": "Vir's Choice Awards",
+                    "cat": "Most Innovative General Manager",
+                    "name": "Visheshwar Raj Singh"
+                },
+                {
+                    "type": "Vir's Choice Awards",
+                    "cat": "Most Disruptive Concept of the Year",
+                    "name": "Colaba Social"
+                },
+                {
+                    "type": "People's Choice Awards",
+                    "cat": "Best Indian Restaurant in a Hotel",
+                    "name": "The Sahib Room & Kipling Bar"
+                },
+                {
+                    "type": "People's Choice Awards",
+                    "cat": "Best Indian Restaurant as a Standalone",
+                    "name": "Mirchi and Mime"
+                },
+                {
+                    "type": "People's Choice Awards",
+                    "cat": "Best European Restaurant in a Hotel",
+                    "name": "Le Cirque Signature"
+                },
+                {
+                    "type": "People's Choice Awards",
+                    "cat": "Best European Restaurant as a Standalone",
+                    "name": "Indigo"
+                },
+                {
+                    "type": "People's Choice Awards",
+                    "cat": "Best Cocktail Bar in a Hotel",
+                    "name": "Opium Den"
+                },
+                {
+                    "type": "People's Choice Awards",
+                    "cat": "Best Cocktail Bar as a Standalone",
+                    "name": "Hoppipola"
+                },
+                {
+                    "type": "People's Choice Awards",
+                    "cat": "Best Oriental Restaurant in a Hotel",
+                    "name": "Dashanzi"
+                },
+                {
+                    "type": "People's Choice Awards",
+                    "cat": "Best Oriental Restaurant as a Standalone",
+                    "name": "Mamagoto"
+                },
+                {
+                    "type": "People's Choice Awards",
+                    "cat": "Best Nightlife in a Hotel",
+                    "name": "Aer"
+                },
+                {
+                    "type": "People's Choice Awards",
+                    "cat": "Best Nightlife in a Standalone",
+                    "name": "Hard Rock Cafe"
+                },
+                {
+                    "type": "People's Choice Awards",
+                    "cat": "Best Cafe in a Hotel",
+                    "name": "O22"
+                },
+                {
+                    "type": "People's Choice Awards",
+                    "cat": "Best Modern Indian Restaurant",
+                    "name": "Masala Library"
+                },
+                {
+                    "type": "People's Choice Awards",
+                    "cat": "Best Sushi in Town",
+                    "name": "Wasabi By Morimoto"
+                },
+                {
+                    "type": "People's Choice Awards",
+                    "cat": "Best Cafe as a Standalone",
+                    "name": "The Bombay Canteen"
+                },
+                {
+                    "type": "People's Choice Awards",
+                    "cat": "Best Regional Cuisine Standalone",
+                    "name": "SodaBottleOpenerWala"
+                },
+                {
+                    "type": "People's Choice Awards",
+                    "cat": "Best Microbrewery in Town",
+                    "name": "The White Owl - Brewery & Bistro"
+                },
+                {
+                    "type": "People's Choice Awards",
+                    "cat": "Best Vegetarian Restaurant",
+                    "name": "Vedge"
+                },
+                {
+                    "type": "People's Choice Awards",
+                    "cat": "Best Mediterranean Restaurant",
+                    "name": "Aqaba"
+                },
+                {
+                    "type": "People's Choice Awards",
+                    "cat": "Best Sunday Brunch",
+                    "name": "San-Qi"
+                },
+                {
+                    "type": "People's Choice Awards",
+                    "cat": "Best Coastal Cuisine Restaurant",
+                    "name": "Mahesh Lunch Home"
+                },
+                {
+                    "type": "People's Choice Awards",
+                    "cat": "Best Buffet in Town",
+                    "name": "Sigree Global Grill"
+                },
+                {
+                    "type": "People's Choice Awards",
+                    "cat": "Best Pizzas in Town",
+                    "name": "PizzaExpress"
+                }
+            ]
+        },
+        "bengaluru": {
+            "2017": []
+        }
     }
 }
