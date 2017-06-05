@@ -1,4 +1,5 @@
-[
+{
+  "data": [
     {
       "id": 1,
       "name": "Delhi NCR",
@@ -71,4 +72,6 @@
       "latitude": 23.02,
       "longitude": 72.2996
     }
-  ]
+  ],
+  "current_city_id": null
+}
