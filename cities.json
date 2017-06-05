@@ -1,0 +1,77 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Delhi NCR",
+      "code": "delhi-ncr",
+      "country_id": 1,
+      "latitude": 28.627,
+      "longitude": 77.2045
+    },
+    {
+      "id": 2,
+      "name": "Mumbai",
+      "code": "mumbai",
+      "country_id": 1,
+      "latitude": 19.1244,
+      "longitude": 72.8816
+    },
+    {
+      "id": 3,
+      "name": "Bengaluru",
+      "code": "bengaluru",
+      "country_id": 1,
+      "latitude": 12.9873,
+      "longitude": 77.6048
+    },
+    {
+      "id": 4,
+      "name": "Chennai",
+      "code": "chennai",
+      "country_id": 1,
+      "latitude": 13.0827,
+      "longitude": 80.2707
+    },
+    {
+      "id": 5,
+      "name": "Pune",
+      "code": "pune",
+      "country_id": 1,
+      "latitude": 18.5252,
+      "longitude": 73.8726
+    },
+    {
+      "id": 6,
+      "name": "Kolkata",
+      "code": "kolkata",
+      "country_id": 1,
+      "latitude": 22.6755,
+      "longitude": 88.0884
+    },
+    {
+      "id": 7,
+      "name": "Dubai",
+      "code": "dubai",
+      "country_id": 2,
+      "latitude": 25.0736,
+      "longitude": 54.9497
+    },
+    {
+      "id": 8,
+      "name": "Goa",
+      "code": "goa",
+      "country_id": 1,
+      "latitude": 15.2993,
+      "longitude": 74.124
+    },
+    {
+      "id": 12,
+      "name": "Ahmedabad",
+      "code": "ahmedabad",
+      "country_id": 1,
+      "latitude": 23.02,
+      "longitude": 72.2996
+    }
+  ],
+  "current_city_id": null
+}
